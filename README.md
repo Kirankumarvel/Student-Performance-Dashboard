@@ -16,8 +16,8 @@ An interactive Python dashboard visualizing academic performance across semester
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Kirankumarvel/Student-Perfromance-dashboard.git
-   cd student-dashboard
+   git clone https://github.com/Kirankumarvel/Student-Performance-Dashboard.git
+   cd Student-Performance-Dashboard
    ```
 
 2. **Install dependencies**:
